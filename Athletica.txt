@@ -1,0 +1,44 @@
+Print the working directory.
+
+
+List all files and directories in long format, including hidden files.
+
+
+Use cat to view the contents of basketball.txt.
+
+
+Use cat to view the contents of hockey.txt.
+
+
+Redirect the standard output of basketball.txt into hockey.txt. Then view the contents of hockey.txt.
+
+
+View the contents of lacrosse.txt.
+
+
+Append the contents of lacrosse.txt to the contents of tennis.txt. Then, view the contents of tennis.txt.
+
+
+Redirect the contents of gymnastics.txt as standard input for the cat command.
+
+
+Pipe the standard output of cat lacrosse.txt to the wordcount command.
+
+
+Use cat to view the contents of equipment.txt.
+
+
+Sort the contents of equipment.txt in alphabetical order.
+
+
+Use the uniq command to filter out adjacent, duplicate lines in equipment.txt.
+
+
+Use the grep command to search roster.txt for players from Japan.
+
+
+Use the grep command to search for the string ‘player’ in the current directory (.), and output filenames and lines for matched results.
+
+
+Use cat to view the contents of games.txt. Then, use sed to replace all instances of the word ‘loss’ with ‘win’ in games.txt.
+
